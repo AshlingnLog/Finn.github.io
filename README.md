@@ -1,2 +1,3 @@
 # Finn.github.io
-another attempt at getting a live page for class
+Assignment for Module2 of MITxPro
+By Ashling Struve
